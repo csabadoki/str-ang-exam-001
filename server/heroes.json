@@ -1,31 +1,31 @@
 {
   "heroes": [
       {
-          "id": "1",
+          "id": 1,
           "name": "Vuk",
           "superPower": "ravasz",
           "address": "Mesevilág"
       },
       {
-          "id": "2",
+          "id": 2,
           "name": "Lúdas Matyi",
           "superPower": "okos",
           "address": "Döbrög"
       },
       {
-          "id": "3",
+          "id": 3,
           "name": "Toldi",
           "superPower": "erős",
           "address": "Buda vára"
       },
       {
-          "id": "4",
+          "id": 4,
           "name": "Mátyás",
           "superPower": "igazságos",
           "address": "Visegrád"
       },
       {
-          "id": "5",
+          "id": 5,
           "name": "Kinizsi",
           "superPower": "vezér",
           "address": "Nagyvázsony"
